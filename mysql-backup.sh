@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Author: Kishan Bhugul
+#Version: 1.0
+
 # Backup script for a remote MySQL database
 
 sevr_ip='YOUR_SERVER_IP'   #Remote Host IP
